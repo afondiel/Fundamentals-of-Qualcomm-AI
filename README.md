@@ -4,7 +4,7 @@
 
 As an [Edge AI Engineer](https://afondiel.github.io/) constantly exploring state-of-the-art edge AI [solutions](https://github.com/afondiel/computer-science-notebook/blob/master/core/systems/edge-computing/edge-ai/industry-applications/), [Qualcomm](https://qualcomm.com/) is the only[^1] company offering a such robust and comprehensive ecosystem that includes pretrained [models](https://github.com/quic/aimet-model-zoo), [frameworks](https://github.com/quic/aimet), [cloud services](https://qdc.qualcomm.com/), and [on-device AI platforms](https://aihub.qualcomm.com/get-started). This layered ecosystem provides developers with a seamless experience: even without direct access to Qualcomm hardware, models can be run and profiled in the cloud, accelerating prototyping and deployment.
 
-I took this course to gain a deeper and broader understanding of Qualcomm ecosystem. Other Qualcomm Edge AI course includes [Introduction On-Device AI](<https://github.com/afondiel/Intro-to-On-Device-AI-Qualcomm)>) from DeepLearningAI, and you can more [here](./resources/Qualcomm_Courses_Notes.md). 
+I took this course to gain a deeper and broader understanding of Qualcomm ecosystem. Other Qualcomm Edge AI course includes [Introduction On-Device AI](https://github.com/afondiel/Intro-to-On-Device-AI-Qualcomm) from DeepLearningAI, and more [here](./resources/Qualcomm_Courses_Notes.md). 
 
 [^1]: As of June 2025, this may change in the future
 
