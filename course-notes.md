@@ -23,7 +23,7 @@ Notes and resources of [Fundamentals of Qualcomm AI](https://academy.qualcomm.co
 ## Qualcomm AI Stack Introduction
 - [Slides](./chapters/slides/4_Qualcomm_AI_Stack_Introduction/)
 
-## AIMET
+## AIMET: AI Model Efficiency Toolkit
 - [Slides](./chapters/slides/5_AIMET/)
 
 
